@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "504664685426114560"; // ايدي السررفر
-var channel = "507120713619210241";//ايدي الروم
+var server = "513341507516760074"; // ايدي السررفر
+var channel = "513341576546615329";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town#u,Hazard , #u,Relo , Universe Town')
     },305);
